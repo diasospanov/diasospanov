@@ -1,16 +1,24 @@
-### Hi there 👋
+### 👋 Hi! My name is Dias. Welcome to my GitHub!
 
-<!--
-**diasospanov/diasospanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+After working as a petroleum engineer on complex international projects with multidisciplinary teams that required a great deal of data analysis and interpretation my interests have shifted towards Project Management and Digitalisation. I acquired a Certification from PMI and undergone a Bootcamp.
+With a combination of project management skills honed over the years and programming skills I can help drive the success of organizations I work for.
 
-Here are some ideas to get you started:
+### Skills
+Next.js | React.js | Node.js | TypeScript | JavaScript | PostgreSQL | Playwright | Jest | Fly.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(https://camo.githubusercontent.com/81833c4172c175dfc5e5bef266075f47c89977a9cc59ea76b6d2d6f53b386177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666c6174266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465)
+
+(https://camo.githubusercontent.com/b8f9baf34dfa59e5cf63be744777f8f01596535a4bcc1502df3cf39a71d41c23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374)
+
+(https://camo.githubusercontent.com/7659585b1e4c20c318f170a540852bfdb675907e3f70d05dc29cf5bde1081250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73)
+
+(https://camo.githubusercontent.com/9d005311bf65df61c42e9e5cd6e700fd3519703c569128d590cc10f203879cf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+
+(https://camo.githubusercontent.com/f33034d35f7b1a9706dda4de4469ead7777a7d16b6c27a2e8c72bf9d0a0d9608/68747470733a2f2f62616467656e2e6e65742f62616467652f2d2f547970655363726970743f69636f6e3d74797065736372697074266c6162656c266c6162656c436f6c6f723d626c756526636f6c6f723d353535353535)
+
+(https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074)
+
+https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35
+
+https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236
